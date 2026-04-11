@@ -114,9 +114,6 @@ At the product level, **'PAPER CRAFT , LITTLE BIRDIE'** should be discontinued o
 ### Page 3 — Customer Analysis
 ![Customer Analysis](visuals/page3_customer_analysis.png)
 
-### Page 4 — Return Rate Over Time
-![Return Rate Over Time](visuals/page4_return_rate_over_time.png)
-
 ---
 
 *This project is part of an ongoing data analyst portfolio. More projects coming soon.*
