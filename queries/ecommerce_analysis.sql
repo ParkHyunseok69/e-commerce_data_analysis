@@ -190,11 +190,3 @@ FROM cohort_data_step c
 JOIN cohort_size_step s ON c.CohortMonth = s.CohortMonth
 ORDER BY c.CohortMonth, c.Period
 
-
-
-
-
-SELECT DISTINCT Description
-FROM [e-commerce_table]
-WHERE Description LIKE '%MEDIUM CERAMIC TOP%'
-ORDER BY Description
